@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act of Parliament anent Registration of Seasings</title>
+            <author>Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1600</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00660</idno>
+            <idno type="STC">STC 21892.5</idno>
+            <idno type="STC">ESTC S95075</idno>
+            <idno type="EEBO-CITATION">44920422</idno>
+            <idno type="OCLC">ocm 44920422</idno>
+            <idno type="VID">173869</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00660)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173869)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2104:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act of Parliament anent Registration of Seasings</title>
+                  <author>Scotland.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert W[alde]graue, Printer to the Kings maiestie,</publisher>
+                  <pubPlace>[Edinburgh] :</pubPlace>
+                  <date>[1600?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Ioannes Skene, Cler. Regist.</note>
+                  <note>Place of publication and date from STC (2nd ed.).</note>
+                  <note>Proclamation issued on November 15, 1600.</note>
+                  <note>Imperfect: creased and torn, with partial loss of imprint.</note>
+                  <note>Reproduction of original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Reversion --  Scotland --  Early works to 1800.</term>
+               <term>Land titles --  Registration and transfer --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:173869:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <head>
+               <figure>
+                  <figDesc>royal Scottish blazon</figDesc>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g> Act of Parliament anent regiſtra<g ref="char:EOLhyphen"/>tion <hi>of Seaſings.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>N the Parliament haldin at <hi>Edinburgh</hi> the fifthtene day of Nouember, the ȝeir of God, Ane thouſand ſex hundreth ȝeiris. OVR SOVERANE LORD and Eſtatis of Parliament, for eſchewing of falſets, and for ſecuritie of all the Lieges, Statutis and or<g ref="char:EOLhyphen"/>daines that in all time comming, All inſtruments of Seaſing, Reverſions, Regres, Bands or promiſes for giuing of Reverſions or regres, Diſcharges of Reverſions, Aſſignations to Reverſions, Intimations of the ſamin, Renunciations of wodſettis, and graunts of Redemption, quhilks ſall not be regiſtrate in the buikes of Councell and Seſſion, with<g ref="char:EOLhyphen"/>in fourty dayes next after the making and perfiting of the ſamin, (except and alwaies Seaſings of Burrow land, halden in frie burgage, giuen vpon Reſignation made in the Bailȝies hands, conforme to the act of Parliament.) Be inſert and regiſtrate in the regi<g ref="char:EOLhyphen"/>ſters preſently appointed to that effect, within the foreſaide ſpace of fourtie dayes after they be perfited, vtherwaies to be nul, and to make no faith in judgement, nor out-with. And the ſaid nullitie to be receaued by way of exception. And the ſaids Regiſters for the greater eaſe of the Lieges, to be eſtabliſhed in particular places following. That is to ſay, ane in the towne of <hi>Kirkwall</hi> in <hi>Orknay,</hi> for the haill inhabi<g ref="char:EOLhyphen"/>tants and landly and within the ſhirefdome of <hi>Orknay</hi> and <hi>Shetland.</hi> Ane in the burgh of <hi>Innernes,</hi> for the ſhirefdome of <hi>Innernes</hi> and <hi>Cromartie</hi> Ane in the burgh of <hi>Elgin,</hi> for the ſhirefdome of <hi>Elgin, Forres</hi> and <hi>Narne</hi> Ane in the burgh of <hi>Aberdein,</hi> for the ſhirefdomes of <hi>Aberdein; Baumf,</hi> and <hi>Kinkardin.</hi> Ane in the burgh of <hi>Dundie,</hi> for the ſhirefdome of <hi>Forfare</hi> Ane in the burgh of <hi>Perth,</hi> for the ſhirefdome of <hi>Perth,</hi> and ſtewartrie of <hi>Stratherne</hi> (except and the ſtewar<g ref="char:EOLhyphen"/>try of <hi>Menteith.</hi>) Ane in the burgh of <hi>Striuiling,</hi> for the ſhirefdome of <hi>Striuiling, Clakmannan,</hi> and ſtewartry of <hi>Menteith.</hi> Ane in the burgh of <hi>Cowper</hi> in <hi>Fyfe,</hi> for the ſhirefdome of <hi>Fyfe</hi> and <hi>Kinroſher.</hi> Ane in the burgh of <hi>Edinburgh,</hi> for the ſhirefdome of <hi>Edinburgh</hi> principall, and Conſtabularie of <hi>Hadingtoun.</hi> Ane in the burgh of <hi>Linlithgow,</hi> for the ſhiref<g ref="char:EOLhyphen"/>domes of <hi>Linlithgow</hi> and <hi>Bathcat.</hi> Ane in the burgh of <hi>Lawder,</hi> for the ſhirefdomes of <hi>Berwick, Roxburgh, Selkirk, Peibles,</hi> and bailȝerie of <hi>Lawderdaill.</hi> Ane in the towne of <hi>Hammiltoun,</hi> for the ſhirefdome of <hi>Lanrick,</hi> (except and the burgh and barronie of <hi>Glaſgow.</hi>) Ane in the cittie of <hi>Glaſgow,</hi> for the barronies of <hi>Glaſgow</hi> and <hi>Renfrew.</hi> Ane in the burgh of <hi>Dum<g ref="char:EOLhyphen"/>bertane;</hi> for the ſhirefdomes of <hi>Dumbertane, Bute, Argyle, Arrane,</hi> and <hi>Tarbet.</hi> Ane in the burgh of <hi>Air,</hi> for the ſhirefdome of <hi>Air,</hi> and bailȝeries of <hi>Kyle, Karrick,</hi> and <hi>Cuninghame</hi> Ane in the burgh of <hi>Wigtoun,</hi> for the ſhirefdome of <hi>Wigtoun.</hi> Ane in the burgh of <hi>Dumfreis,</hi> for the ſhirefdome of <hi>Dumfreis,</hi> and ſtewartries of <hi>Kirkcuthbright,</hi> and <hi>Annandaill.</hi> Or ony vther place or places mair convenient, as the keipers of the ſaids Regiſters ſall thinke maiſt expedient, dew intimation being made to the lieges of the ſamin: and the ſaids evidents to be regiſtrate in the particular buikes appointed for ilk ſhirefdome, as ſaid is. And to the effect the ſaid office may preſently and in all time comming be the mair faithfully ad<g ref="char:EOLhyphen"/>miniſtrate, <hi>STATVTES</hi> and ordaynes the ſamin to be annext and incorporate with the office of Secretarie: and the foreſaids regiſters to be called the regiſters of the Secretary in all time comming. And that the Secretare preſent, and to come, haue the ſaid office as ane proper part and pertinent of the ſaid ſecretarie: make and conſtitute particular de<g ref="char:EOLhyphen"/>puties, ane, or mae, for all the dayes of their lifetime, or vtherwayes as he ſall thinke expedient, in euery ane of the places foreſaides, of gude fame, literature, and conuerſation, for quhome he ſall be anſwerable, and quha ſall be reſident within the ſaids townes and burghes: ready at all times to receaue from the pairties their euidents, and to regiſtrate the ſamin within the ſpace of twenty foure houres, next after the receit thereof. And deliuer to the preſenter of the ſamin, their e<g ref="char:EOLhyphen"/>vidents marked by him, with the day, moneth, and ȝeir of the regiſtration, and in what leaf of the booke the ſamin is re<g ref="char:EOLhyphen"/>giſtrate: and ſal take allanerlie for his paines, the ſowme of threttein ſhilings and foure pennies, as for the price of ilk leaf of his regiſter, written on baith the ſydes. And according thereto, ſall take proportionally for regiſtring of euery ane of the ſaids euidents. And the ſaids regiſters to be filled by the ſaids deputes, to be marked by the Secretare or his deputes to be appointed by him for that effect, with ane note of the particular nomber of the leafes that the ſamin ſall conteine. And the ſaids regiſters after the filling of the ſamin, to be reported to the ſaid Secretare, to remaine with him, and to be patent to all our Souerane Lords lieges that ſall haue adoe with the ſamin. The extract of the quhilk regiſter ſall haue as great faith and ſtrength, as gif the originall were ſhawin, except the pairties hauing entres to oppone againſt the ſaids wrytis, offer to improue the ſamin by way of action or exception. In the quhilk caſe the pairty purchaſer of the ſaids e<g ref="char:EOLhyphen"/>vidents, and vthers hauand entres to defend the ſamin, ſall be holden to produce the principall and originall, notwith<g ref="char:EOLhyphen"/>ſtanding that they be regiſtrate, as ſaid is: and that nane of the ſaids euidents be of force, ſtrength, or effect to ony inten<g ref="char:EOLhyphen"/>tion, but to be null, and of nane auaill, except the ſamin be regiſtrate, as ſaid is. It is alwayes prouyded by the tenour of this preſent act for remedy of the negligence of pairties, that if the principall wrytes marked and regiſtrate as is aboue written, be not lifted by the producers, within the ſpace of thrie moneths after they be marked and regiſtrate, as ſaid is, that the ſaids Clarks ſall be na mair countabill for them, nor the wrytes produced repute as regiſtrat, except it may be ſufficiently verefied by authentick inſtruments, the non-deliuering of them to haue bene in the Clarks default. And that letters of publication be direct heirupon in forme as effeirs.</p>
+            <closer>
+               <signed>Extractum de libro actorum Parliamenti, S.D.N. Regis, per me Magiſtrum Ioannem Skene, Clericum rotulorum Regiſtri, ac Conſilij S.D.N. Regis, ſub meis ſigno &amp; ſubſcriptione manualibus. <hi>Sic ſubſcribitur, Ioannes Skene Cler. Regiſt.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by Robert W<gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>graue, Printer to the Kings maieſtie</p>
+         </div>
+      </back>
+   </text>
+</TEI>
